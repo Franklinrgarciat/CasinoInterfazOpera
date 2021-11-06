@@ -1,0 +1,191 @@
+[
+  {
+    "CodigoProvinciaOpera": "00",
+    "DescripcionProvinciaOpera": "Capital Federal",
+    "CodigoPaisOpera":"AR", 
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "00"
+  },
+  {
+    "CodigoProvinciaOpera": "01",
+    "DescripcionProvinciaOpera": "Buenos Aires",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "01"
+  },
+  {
+    "CodigoProvinciaOpera": "02",
+    "DescripcionProvinciaOpera": "Catamarca",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "02"
+  },
+  {
+    "CodigoProvinciaOpera": "03",
+    "DescripcionProvinciaOpera": "Cordoba",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "03"
+  },
+  {
+    "CodigoProvinciaOpera": "04",
+    "DescripcionProvinciaOpera": "Corrientes",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "04"
+  },
+  {
+    "CodigoProvinciaOpera": "05",
+    "DescripcionProvinciaOpera": "Entre Rios",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "05"
+  },
+  {
+    "CodigoProvinciaOpera": "06",
+    "DescripcionProvinciaOpera": "JUjuy",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "06"
+  },
+  {
+    "CodigoProvinciaOpera": "07",
+    "DescripcionProvinciaOpera": "Mendoza",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "07"
+  },
+  {
+    "CodigoProvinciaOpera": "08",
+    "DescripcionProvinciaOpera": "La Rioja",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "08"
+  },
+  {
+    "CodigoProvinciaOpera": "09",
+    "DescripcionProvinciaOpera": "Salta",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "09"
+  },
+  {
+    "CodigoProvinciaOpera": "10",
+    "DescripcionProvinciaOpera": "San Juan",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "10"
+  },
+  {
+    "CodigoProvinciaOpera": "11",
+    "DescripcionProvinciaOpera": "San Luis",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "11"
+  },
+  {
+    "CodigoProvinciaOpera": "12",
+    "DescripcionProvinciaOpera": "Santa Fé",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "12"
+  },
+  {
+    "CodigoProvinciaOpera": "13",
+    "DescripcionProvinciaOpera": "Santiago del Estero",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "13"
+  },
+  {
+    "CodigoProvinciaOpera": "14",
+    "DescripcionProvinciaOpera": "Tucumán",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "14"
+  },
+  {
+    "CodigoProvinciaOpera": "16",
+    "DescripcionProvinciaOpera": "Chaco",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "16"
+  },
+  {
+    "CodigoProvinciaOpera": "17",
+    "DescripcionProvinciaOpera": "Chubut",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "17"
+  },
+  {
+    "CodigoProvinciaOpera": "18",
+    "DescripcionProvinciaOpera": "Formosa",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "18"
+  },
+  {
+    "CodigoProvinciaOpera": "19",
+    "DescripcionProvinciaOpera": "Misiones",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "19"
+  },
+  {
+    "CodigoProvinciaOpera": "20",
+    "DescripcionProvinciaOpera": "Neuquén",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "20"
+  },
+  {
+    "CodigoProvinciaOpera": "21",
+    "DescripcionProvinciaOpera": "La Pampa",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "21"
+  },
+  {
+    "CodigoProvinciaOpera": "22",
+    "DescripcionProvinciaOpera": "Río Negro",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "22"
+  },
+  {
+    "CodigoProvinciaOpera": "23",
+    "DescripcionProvinciaOpera": "Santa Cruz",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "23"
+  },
+  {
+    "CodigoProvinciaOpera": "24",
+    "DescripcionProvinciaOpera": "Tierra del Fuego",
+    "CodigoPaisOpera": "AR",
+    "DescripcionPaisOpera": "ARGENTINA",
+    "CodigoProvinciaTango": "24"
+  },
+  {
+    "CodigoProvinciaOpera": "30",
+    "DescripcionProvinciaOpera": "Bolivia",
+    "CodigoPaisOpera": "BO",
+    "DescripcionPaisOpera": "BOLIVIA",
+    "CodigoProvinciaTango": "30"
+  },
+  {
+    "CodigoProvinciaOpera": "31",
+    "DescripcionProvinciaOpera": "Chile",
+    "CodigoPaisOpera": "CH",
+    "DescripcionPaisOpera": "CHILE",
+    "CodigoProvinciaTango": "31"
+  },
+  {
+    "CodigoProvinciaOpera": "32",
+    "DescripcionProvinciaOpera": "Brasil",
+    "CodigoPaisOpera": "BR",
+    "DescripcionPaisOpera": "BRASIL",
+    "CodigoProvinciaTango": "32"
+  }
+]

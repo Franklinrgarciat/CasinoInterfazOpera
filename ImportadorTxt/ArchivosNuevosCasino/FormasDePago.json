@@ -1,0 +1,38 @@
+[
+  {
+    "TipoPago": "EFE",
+    "CodCuentaTango": "1"
+  },
+  {
+    "TipoPago": "CHEQ",
+    "CodCuentaTango": "66"
+  },
+  {
+    "TipoPago": "TJC_AMEX",
+    "CodCuentaTango": "8"
+  },
+  {
+    "TipoPago": "TJC_VISA",
+    "CodCuentaTango": "7"
+  },
+  {
+    "TipoPago": "TJC_MASTER",
+    "CodCuentaTango": ""
+  },
+  {
+    "TipoPago": "TJD_MASTER",
+    "CodCuentaTango": ""
+  },
+  {
+    "TipoPago": "TJD_VISA",
+    "CodCuentaTango": ""
+  },
+  {
+    "TipoPago": "TRANSFER",
+    "CodCuentaTango": ""
+  },
+  {
+    "TipoPago": "DEP",
+    "CodCuentaTango": ""
+  }
+]

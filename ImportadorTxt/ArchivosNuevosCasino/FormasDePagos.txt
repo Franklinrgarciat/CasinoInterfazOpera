@@ -1,0 +1,31 @@
+-         Efectivo                                                                        EFE
+
+-         Cheque                                                                          CHEQ
+
+-         American Express                                                      	TJC_AMEX
+
+-         Visa                                                                          TJC_VISA
+
+-         Master Card                                                                   TJC_MASTER
+
+-         Diners Club                                                                   TJC_DIN
+
+-         Maestro                                                                       TJD_MASTER
+
+-         Visa Electron                                                                  TJD_VISA
+
+-         Credencial                                                                     TJC_CRE
+
+-         Cabal                                                                          TJC_CAB
+
+-         Cuenta Corriente                                                       	  CTACTE
+
+-         Mercadopago                                                              	  MERPA
+
+-         Casino Red                                                                     CASRED
+
+-         Cuenta Hotel                                                              	 CTAHOT
+
+-         Transferencia Bancaria                                            		 TRANSFER
+
+-         Deposit Transfer at Check in                                			   DEP
